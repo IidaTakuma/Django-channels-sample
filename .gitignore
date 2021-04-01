@@ -1,0 +1,10 @@
+.vscode
+.DS_Store
+**/__pycache__
+
+# Django
+local_settings.py
+db.sqlite3
+
+# pipenv
+Pipfile.lock
